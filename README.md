@@ -2,15 +2,11 @@
 
 The dataset is intentionally **not included** in this repository.
 
-## Source
+# Source
 
-The project uses the Wisconsin breast cancer dataset obtained from Kaggle.
+The project uses the breast cancer dataset obtained from Kaggle.
 
-Download the CSV from Kaggle and save it locally as:
-
-```text
-data/breast-cancer.csv
-```
+Download the CSV file from Kaggle and save it locally.
 
 The expected columns include:
 
@@ -23,4 +19,4 @@ Diagnosis labels:
 - `B` = Benign
 - `M` = Malignant
 
-Do not commit private or restricted datasets to the repository.
+
